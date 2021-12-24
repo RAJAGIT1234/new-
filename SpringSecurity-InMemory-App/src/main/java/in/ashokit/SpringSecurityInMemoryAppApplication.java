@@ -8,6 +8,7 @@ public class SpringSecurityInMemoryAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityInMemoryAppApplication.class, args);
+int i=0;
 	}
 
 }
